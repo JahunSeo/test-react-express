@@ -1,0 +1,8 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JahunSeo/test-react-express.git",
+  "author": "JahunSeo <wkgjs0809@gmail.com>",
+  "license": "MIT"
+}
